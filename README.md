@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShayanAkhtar
-- 👀 I’m interested in C++ Programming
-- 🌱 I’m currently learning Data Structures and Algortithms in C++
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning C++
 - 📫 How to reach me :
 Gmail:shayantanoli38@gmail.com
 
