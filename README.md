@@ -14,7 +14,7 @@ I'm a passionate Computer Science student with a deep interest in Flutter develo
 Here are a few notable projects I've worked on:
 
 1. [Matrix Manipulation(C++)](https://github.com/ShayanAkhtar/Matrix_Operations): This program is written in C++ and provides various operations on matrices. It allows users to perform operations such as        transposing a matrix, calculating the sum of rows and columns, and performing binary operations (multiplication, addition, and subtraction) on two matrices.
-2. [Transposition Cipher Encryption and Decryption Program(C++)]: This C++ program implements the Transposition Cipher encryption and decryption algorithm.    The Transposition Cipher is a classical cryptographic technique that rearranges the letters of a message based on a given key.
+2. [Transposition Cipher Encryption and Decryption Program(C++)](https://github.com/ShayanAkhtar/Transposition_Cipher): This C++ program implements the Transposition Cipher encryption and decryption algorithm.    The Transposition Cipher is a classical cryptographic technique that rearranges the letters of a message based on a given key.
 3. [Flight Management System(C++)]: It is a system that will manage flights of an airline for both users and admin.
     Admin are able to manage Flight Numbers, Departure, Destination etc. while user can book their flights, view and cancel them as well.
     
