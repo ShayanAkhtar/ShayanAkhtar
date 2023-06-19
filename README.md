@@ -4,13 +4,15 @@ I'm a passionate Computer Science student with a deep interest in Flutter develo
 
 💻 Technologies and Skills:
 
+- Python: Utilizing its versatility for web development, data analysis, and automation.
 - Flutter: Building beautiful and performant cross-platform applications.
+- MongoDB: Working with NoSQL databases and utilizing its scalability and flexibility.
+- SQL: Managing relational databases and writing efficient queries to retrieve and manipulate data.
+- Firebase: Integrating Firebase services like authentication, real-time databases, and cloud storage into your applications.
 - C++: Developing efficient and robust software with a focus on data structures and algorithms.
 - C: Exploring low-level system programming and memory management.
-- Python: Utilizing its versatility for web development, data analysis, and automation.
 
 🚀 Projects:
-
 Here are a few notable projects I've worked on:
 
 1. [Matrix Manipulation(C++)](https://github.com/ShayanAkhtar/Matrix_Operations): This program is written in C++ and provides various operations on matrices. It allows users to perform operations such as        transposing a matrix, calculating the sum of rows and columns, and performing binary operations (multiplication, addition, and subtraction) on two matrices.
