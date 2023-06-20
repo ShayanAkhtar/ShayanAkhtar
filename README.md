@@ -4,13 +4,7 @@ I'm a passionate Computer Science student with a deep interest in Flutter develo
 
 💻 Technologies and Skills:
 
-- Python: Utilizing its versatility for web development, data analysis, and automation.
-- Flutter: Building beautiful and performant cross-platform applications.
-- MongoDB: Working with NoSQL databases and utilizing its scalability and flexibility.
-- SQL: Managing relational databases and writing efficient queries to retrieve and manipulate data.
-- Firebase: Integrating Firebase services like authentication, real-time databases, and cloud storage into your applications.
-- C++: Developing efficient and robust software with a focus on data structures and algorithms.
-- C: Exploring low-level system programming and memory management.
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,py,dart,kotlin,html,css,mongodb)](https://skills.thijs.gg)
 
 🚀 Projects:
 Here are a few notable projects I've worked on:
