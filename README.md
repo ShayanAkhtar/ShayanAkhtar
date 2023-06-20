@@ -34,6 +34,6 @@ I'm constantly striving to expand my knowledge and keep up with the latest trend
 I'm always excited to collaborate, learn, and share knowledge with fellow developers. Feel free to reach out to me through the following channels:
 
 - Email: [shayantanoli38@gmail.com](mailto:shayantanoli38@gmail.com)
-- LinkedIn: [shayan--akhtar](https://www.linkedin.com/in/shayan--akhtar)
+- LinkedIn: [shayan--akhtar](https://www.linkedin.com/in/shayan-akhtar-zaman-khan-tanoli/)
 
 Thanks for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of software development together. Happy coding! 😄
