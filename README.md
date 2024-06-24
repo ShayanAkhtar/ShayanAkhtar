@@ -2,18 +2,18 @@
 <p align="center">
  <a href="https://github.com/ShayanAkhtar"><img src="https://readme-typing-svg.herokuapp.com?lines=Mern-Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-As a MERN stack developer, I have honed my skills in building full-stack applications using MongoDB, Express.js, React, and Node.js. My expertise lies in designing and implementing robust and scalable web applications that deliver seamless user experiences.
+<h4 align="center">I am a computer science at Air University Islamabad. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Throughout my career, I have gained proficiency in front-end and back-end development, RESTful API design, and database management. My deep understanding of JavaScript and modern web development practices has enabled me to create efficient and maintainable codebases.
+## 🔥 Streak Stats
 
-I take pride in my ability to work collaboratively with cross-functional teams, effectively communicate technical concepts to non-technical stakeholders, and deliver high-quality software solutions that meet business requirements. My experience includes working on diverse projects, from developing dynamic single-page applications to integrating complex backend services and ensuring the security and performance of web applications.<br>
-
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShayanAkhtar&theme=algolia" alt="candida18" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
