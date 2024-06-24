@@ -75,6 +75,18 @@ I take pride in my ability to work collaboratively with cross-functional teams, 
 &emsp; 
 </p>
 
+###  Backend Development  
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://nodejs.org/en" target="_blank"> 
+   <img alt="NodeJs" src="https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://nodejs.org/en" target="_blank"> 
+   <img alt="ExpressJs" src="https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white">
+  </a> 
+
 ###  Databases & Cloud Hosting
 
 <p align="left">
@@ -118,7 +130,8 @@ I take pride in my ability to work collaboratively with cross-functional teams, 
 
 ###  Software & Tools 
 
-<p>
+<p align="left">
+  &emsp;  
   <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
