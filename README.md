@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-As a MERN stack developer with four years of experience, I have honed my skills in building full-stack applications using MongoDB, Express.js, React, and Node.js. My expertise lies in designing and implementing robust and scalable web applications that deliver seamless user experiences.
+As a MERN stack developer, I have honed my skills in building full-stack applications using MongoDB, Express.js, React, and Node.js. My expertise lies in designing and implementing robust and scalable web applications that deliver seamless user experiences.
 
 Throughout my career, I have gained proficiency in front-end and back-end development, RESTful API design, and database management. My deep understanding of JavaScript and modern web development practices has enabled me to create efficient and maintainable codebases.
 
