@@ -1,39 +1,37 @@
-## Hey there! I'm Shayan Akhtar 👋
+<h1 align="center">Hi 👋, I'm Shayan Akhtar</h1>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-I'm a passionate Computer Science student with a deep interest in Flutter development and expertise in languages like C++, C, and Python. I believe in the transformative power of technology and its ability to shape the world for the better. My goal is to contribute to this positive change through my programming skills and innovative projects.
+# 💫 About Me:
+As a backend developer with four years of experience, I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br>
 
-💻 Technologies and Skills:
+![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,py,dart,kotlin,html,css,mongodb)](https://skills.thijs.gg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🚀 Projects:
-Here are a few notable projects I've worked on:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-1. [AlphaFit(Flutter-Dart)](https://github.com/ShayanAkhtar/AlphaFit_App/tree/master): AlphaFit is a fitness app built with Flutter that provides a variety of built-in exercise video animations and pictures demonstrating good exercise postures under various categories. The app is also integrated with Firebase, allowing users to create individual accounts and schedule their exercise routines.
-2. [Airline Management System(C++)](https://github.com/ShayanAkhtar/Airline_Management_System): It is a system that will manage flights of an airline for both users and admin.Admin are able to manage Flight Numbers, Departure, Destination etc. while user can book their flights, view and cancel them as well.
-3. [Transposition Cipher Encryption and Decryption Program(C++)](https://github.com/ShayanAkhtar/Transposition_Cipher): This C++ program implements the Transposition Cipher encryption and decryption algorithm.    The Transposition Cipher is a classical cryptographic technique that rearranges the letters of a message based on a given key.
-4. [Matrix Manipulation(C++)](https://github.com/ShayanAkhtar/Matrix_Operations): This program is written in C++ and provides various operations on matrices. It allows users to perform operations such as        transposing a matrix, calculating the sum of rows and columns, and performing binary operations (multiplication, addition, and subtraction) on two matrices.
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-    
+<!-- # 📊 GitHub Stats: -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> -->
 
-📚 Education:
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-- Air University Islamabad: Bachelor's Degree in Computer Science (2021 - 2025)
-- ICB G-6/3 Islamabad: HSSC(Pre-Engineering)
-- F-G Quaid e Azam Public School: SSC(Computer Science)
 
-🌱 Currently Learning:
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AdityaKumar28&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 
-I'm constantly striving to expand my knowledge and keep up with the latest trends in technology. Currently, I'm focusing on:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
 
-- Deepening my expertise in Flutter development by exploring advanced UI designs and animations.
-- Enhancing my knowledge of Frontend Web development.
 
-💬 Let's Connect:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm always excited to collaborate, learn, and share knowledge with fellow developers. Feel free to reach out to me through the following channels:
 
-- Email: [Shayan Akhtar](mailto:shayantanoli38@gmail.com)
-- LinkedIn: [Shayan Akhtar](https://www.linkedin.com/in/shayan-akhtar-zaman-khan-tanoli/)
-
-Thanks for visiting my GitHub profile! I look forward to connecting with you and exploring the exciting world of software development together. Happy coding! 😄
