@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan Akhtar</h1>
 <p align="center">
- <a href="https://github.com/ShayanAkhtar"><img src="https://readme-typing-svg.herokuapp.com?lines=Mern-Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/ShayanAkhtar"><img src="https://readme-typing-svg.herokuapp.com?lines=.Net+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
